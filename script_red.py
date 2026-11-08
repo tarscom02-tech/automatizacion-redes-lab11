@@ -9,4 +9,4 @@ def aplicar_vlan():
 
 if __name__ == "__main__":
     print("=== INICIANDO DESPLIEGUE EN SW-CORE-01 ===")
-    aplicar_vlan()
+    aplicar_vlan()# Forzando cambio de conflicto
